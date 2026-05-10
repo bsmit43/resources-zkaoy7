@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bsmit43.github.io/resources-zkaoy7/sitemap.xml
